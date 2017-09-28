@@ -1,0 +1,438 @@
+{
+ "Flaps 5 at or below" : [
+  {
+   "weight" : "18000",
+   "altitude0" : "102/116",
+   "altitude2000" : "102/115",
+   "altitude4000" : "102/114",
+   "altitude6000" : "102/113",
+   "altitude8000" : "102/112",
+   "altitude10000" : "103/111"
+  }, 
+  
+  {
+   "weight" : "20000",
+   "altitude0" : "105/115",
+   "altitude2000" : "106/114",
+   "altitude4000" : "107/113",
+   "altitude6000" : "107/112",
+   "altitude8000" : "108/112",
+   "altitude10000" : "110/111"
+  }, 
+  {
+   "weight" : "22000",
+   "altitude0" : "112/117",
+   "altitude2000" : "113/117",
+   "altitude4000" : "113/117",
+   "altitude6000" : "114/117",
+   "altitude8000" : "115/117",
+   "altitude10000" : "116/117"
+  }, 
+  {
+   "weight" : "24000",
+   "altitude0" : "118/122",
+   "altitude2000" : "119/122",
+   "altitude4000" : "120/122",
+   "altitude6000" : "120/122",
+   "altitude8000" : "121/122",
+   "altitude10000" : "122/122"
+  }, 
+  
+  {
+   "weight" : "26000",
+   "altitude0" : "124/127",
+   "altitude2000" : "125/127",
+   "altitude4000" : "126/127",
+   "altitude6000" : "126/127",
+   "altitude8000" : "126/127",
+   "altitude10000" : "127/127"
+  }, 
+  
+  {
+   "weight" : "28000",
+   "altitude0" : "130/132",
+   "altitude2000" : "131/132",
+   "altitude4000" : "131/132",
+   "altitude6000" : "132/132",
+   "altitude8000" : "133/132",
+   "altitude10000" : "134/132"
+  }, 
+  
+  {
+   "weight" : "29000",
+   "altitude0" : "133/135",
+   "altitude2000" : "134/135",
+   "altitude4000" : "135/135",
+   "altitude6000" : "136/135",
+   "altitude8000" : "137/135",
+   "altitude10000" : "138/135"
+  }
+  
+]}
+
+{
+
+"Flaps 5 at or above" : [
+  {
+   "weight" : "18000",
+   "altitude0" : "102/114",
+   "altitude2000" : "102/113",
+   "altitude4000" : "102/112",
+   "altitude6000" : "102/111",
+   "altitude8000" : "103/110",
+   "altitude10000" : "105/109"
+  }, 
+  
+  {
+   "weight" : "20000",
+   "altitude0" : "107/113",
+   "altitude2000" : "108/112",
+   "altitude4000" : "108/112",
+   "altitude6000" : "110/111",
+   "altitude8000" : "110/111",
+   "altitude10000" : "112/111"
+  }, 
+  {
+   "weight" : "22000",
+   "altitude0" : "113/117",
+   "altitude2000" : "114/117",
+   "altitude4000" : "115/117",
+   "altitude6000" : "116/117",
+   "altitude8000" : "117/117",
+   "altitude10000" : "118/117"
+  }, 
+  {
+   "weight" : "24000",
+   "altitude0" : "120/122",
+   "altitude2000" : "120/122",
+   "altitude4000" : "121/122",
+   "altitude6000" : "122/122",
+   "altitude8000" : "123/122",
+   "altitude10000" : "124/122"
+  }, 
+  
+  {
+   "weight" : "26000",
+   "altitude0" : "126/127",
+   "altitude2000" : "126/127",
+   "altitude4000" : "127/127",
+   "altitude6000" : "128/127",
+   "altitude8000" : "129/127",
+   "altitude10000" : "130/127"
+  }, 
+  
+  {
+   "weight" : "28000",
+   "altitude0" : "131/132",
+   "altitude2000" : "132/132",
+   "altitude4000" : "133/132",
+   "altitude6000" : "134/132",
+   "altitude8000" : "135/132",
+   "altitude10000" : "136/132"
+  }, 
+  
+  {
+   "weight" : "29000",
+   "altitude0" : "135/135",
+   "altitude2000" : "136/135",
+   "altitude4000" : "137/135",
+   "altitude6000" : "138/135",
+   "altitude8000" : "138/135",
+   "altitude10000" : "140/135"
+  }
+  
+]}
+
+
+{
+
+"Flaps 10 at or below" : [
+  {
+   "weight" : "18000",
+   "altitude0" : "100/111",
+   "altitude2000" : "100/110",
+   "altitude4000" : "100/110",
+   "altitude6000" : "100/109",
+   "altitude8000" : "100/108",
+   "altitude10000" : "100/107"
+  }, 
+  
+  {
+   "weight" : "20000",
+   "altitude0" : "100/110",
+   "altitude2000" : "100/109",
+   "altitude4000" : "100/109",
+   "altitude6000" : "100/108",
+   "altitude8000" : "100/107",
+   "altitude10000" : "101/106"
+  }, 
+  {
+   "weight" : "22000",
+   "altitude0" : "103/109",
+   "altitude2000" : "105/109",
+   "altitude4000" : "105/108",
+   "altitude6000" : "105/108",
+   "altitude8000" : "106/108",
+   "altitude10000" : "108/108"
+  }, 
+  {
+   "weight" : "24000",
+   "altitude0" : "109/113",
+   "altitude2000" : "110/113",
+   "altitude4000" : "111/113",
+   "altitude6000" : "111/113",
+   "altitude8000" : "112/113",
+   "altitude10000" : "113/113"
+  }, 
+  
+  {
+   "weight" : "26000",
+   "altitude0" : "115/118",
+   "altitude2000" : "116/118",
+   "altitude4000" : "116/118",
+   "altitude6000" : "117/118",
+   "altitude8000" : "118/118",
+   "altitude10000" : "119/118"
+  }, 
+  
+  {
+   "weight" : "28000",
+   "altitude0" : "120/122",
+   "altitude2000" : "121/122",
+   "altitude4000" : "122/122",
+   "altitude6000" : "122/122",
+   "altitude8000" : "123/122",
+   "altitude10000" : "124/122"
+  }, 
+  
+  {
+   "weight" : "29000",
+   "altitude0" : "124/125",
+   "altitude2000" : "125/125",
+   "altitude4000" : "125/125",
+   "altitude6000" : "126/125",
+   "altitude8000" : "127/125",
+   "altitude10000" : "128/125"
+  }
+  
+]}
+
+{
+
+"Flaps 10 at or above" : [
+  {
+   "weight" : "18000",
+   "altitude0" : "100/109",
+   "altitude2000" : "100/109",
+   "altitude4000" : "100/109",
+   "altitude6000" : "100/106",
+   "altitude8000" : "---/106",
+   "altitude10000" : "---/105"
+  }, 
+  
+  {
+   "weight" : "20000",
+   "altitude0" : "100/108",
+   "altitude2000" : "100/108",
+   "altitude4000" : "100/107",
+   "altitude6000" : "100/106",
+   "altitude8000" : "---/105",
+   "altitude10000" : "---/105"
+  }, 
+  {
+   "weight" : "22000",
+   "altitude0" : "104/108",
+   "altitude2000" : "106/108",
+   "altitude4000" : "106/108",
+   "altitude6000" : "106/108",
+   "altitude8000" : "---/108",
+   "altitude10000" : "---/108"
+  }, 
+  {
+   "weight" : "24000",
+   "altitude0" : "110/113",
+   "altitude2000" : "111/113",
+   "altitude4000" : "112/113",
+   "altitude6000" : "112/113",
+   "altitude8000" : "---/113",
+   "altitude10000" : "---/113"
+  }, 
+  
+  {
+   "weight" : "26000",
+   "altitude0" : "116/118",
+   "altitude2000" : "117/118",
+   "altitude4000" : "117/118",
+   "altitude6000" : "118/118",
+   "altitude8000" : "---/118",
+   "altitude10000" : "---/118"
+  }, 
+  
+  {
+   "weight" : "28000",
+   "altitude0" : "121/122",
+   "altitude2000" : "122/122",
+   "altitude4000" : "123/122",
+   "altitude6000" : "123/122",
+   "altitude8000" : "---/122",
+   "altitude10000" : "---/122"
+  }, 
+  
+  {
+   "weight" : "29000",
+   "altitude0" : "125/125",
+   "altitude2000" : "125/125",
+   "altitude4000" : "126/125",
+   "altitude6000" : "127/125",
+   "altitude8000" : "---/125",
+   "altitude10000" : "---/125"
+  }
+  
+]}
+
+{
+
+"Flaps 15 at or below" : [
+  {
+   "weight" : "18000",
+   "altitude0" : "98/106",
+   "altitude2000" : "98/106",
+   "altitude4000" : "98/105",
+   "altitude6000" : "98/104",
+   "altitude8000" : "98/103",
+   "altitude10000" : "98/102",
+  }, 
+  
+  {
+   "weight" : "20000",
+   "altitude0" : "98/105",
+   "altitude2000" : "98/105",
+   "altitude4000" : "98/104",
+   "altitude6000" : "98/103",
+   "altitude8000" : "98/102",
+   "altitude10000" : "98/102"
+  }, 
+  {
+   "weight" : "22000",
+   "altitude0" : "100/104",
+   "altitude2000" : "101/104",
+   "altitude4000" : "101/104",
+   "altitude6000" : "102/104",
+   "altitude8000" : "103/104",
+   "altitude10000" : "104/104"
+  }, 
+  {
+   "weight" : "24000",
+   "altitude0" : "106/109",
+   "altitude2000" : "106/109",
+   "altitude4000" : "107/109",
+   "altitude6000" : "108/109",
+   "altitude8000" : "108/109",
+   "altitude10000" : "109/109"
+  }, 
+  
+  {
+   "weight" : "26000",
+   "altitude0" : "111/113",
+   "altitude2000" : "112/113",
+   "altitude4000" : "112/113",
+   "altitude6000" : "113/113",
+   "altitude8000" : "114/113",
+   "altitude10000" : "114/113"
+  }, 
+  
+  {
+   "weight" : "28000",
+   "altitude0" : "116/118",
+   "altitude2000" : "117/118",
+   "altitude4000" : "117/118",
+   "altitude6000" : "118/118",
+   "altitude8000" : "118/118",
+   "altitude10000" : "119/118"
+  }, 
+  
+  {
+   "weight" : "29000",
+   "altitude0" : "119/120",
+   "altitude2000" : "120/120",
+   "altitude4000" : "120/120",
+   "altitude6000" : "121/120",
+   "altitude8000" : "122/120",
+   "altitude10000" : "122/120"
+  }
+  
+]}
+
+{
+
+"Flaps 15 at or above" : [
+  {
+   "weight" : "18000",
+   "altitude0" : "98/105",
+   "altitude2000" : "98/104",
+   "altitude4000" : "98/103",
+   "altitude6000" : "98/102",
+   "altitude8000" : "98/102",
+   "altitude10000" : "98/102"
+  }, 
+  
+  {
+   "weight" : "20000",
+   "altitude0" : "98/103",
+   "altitude2000" : "98/103",
+   "altitude4000" : "98/102",
+   "altitude6000" : "98/102",
+   "altitude8000" : "99/102",
+   "altitude10000" : "99/102"
+  }, 
+  
+  {
+   "weight" : "22000",
+   "altitude0" : "101/104",
+   "altitude2000" : "102/104",
+   "altitude4000" : "103/104",
+   "altitude6000" : "104/104",
+   "altitude8000" : "104/104",
+   "altitude10000" : "104/104"
+  }, 
+  {
+   "weight" : "24000",
+   "altitude0" : "107/109",
+   "altitude2000" : "108/109",
+   "altitude4000" : "108/109",
+   "altitude6000" : "109/109",
+   "altitude8000" : "110/109",
+   "altitude10000" : "110/109"
+  }, 
+  
+  {
+   "weight" : "26000",
+   "altitude0" : "112/113",
+   "altitude2000" : "113/113",
+   "altitude4000" : "114/113",
+   "altitude6000" : "114/113",
+   "altitude8000" : "115/113",
+   "altitude10000" : "115/113"
+  }, 
+  
+  {
+   "weight" : "28000",
+   "altitude0" : "117/118",
+   "altitude2000" : "118/118",
+   "altitude4000" : "119/118",
+   "altitude6000" : "119/118",
+   "altitude8000" : "120/118",
+   "altitude10000" : "120/118"
+  }, 
+  
+  {
+   "weight" : "29000",
+   "altitude0" : "120/120",
+   "altitude2000" : "121/120",
+   "altitude4000" : "121/120",
+   "altitude6000" : "122/120",
+   "altitude8000" : "123/120",
+   "altitude10000" : "123/120"
+  }
+  
+]}
